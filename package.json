@@ -1,0 +1,11 @@
+{
+  "name": "renovate-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/yszk0123/renovate-test.git",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
